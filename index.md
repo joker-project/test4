@@ -12,6 +12,6 @@ This is a list:
 
 [Link to the editable second page](https://github.com/joker-project/test4/blob/main/second_page.md)
 
-[Link to my third page](test/third_page)
+[Link to my third page](test/directory/third_page)
 
 [UBO](https://univ-brest.fr/)
