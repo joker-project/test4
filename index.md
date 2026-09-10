@@ -12,3 +12,5 @@ This is a list:
 
 [Link to the editable second page](https://github.com/joker-project/test4/blob/main/second_page.md)
 
+[Link to my third page](third_page)
+
