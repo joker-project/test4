@@ -15,3 +15,5 @@ This is a list:
 [Link to my third page](test/directory/third_page)
 
 [UBO](https://univ-brest.fr/)
+
+![img](img/fig1.png)
